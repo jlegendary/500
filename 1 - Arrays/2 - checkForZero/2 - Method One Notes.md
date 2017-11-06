@@ -6,9 +6,9 @@
 	Any subarray values with 0 sum 
 
 ### Solving plan:
-   - [ ] Step 1: Check if array with zero sum is present in the array.
-   - [ ] Step 2: Traverse array and maintain sum
-   - [ ] Step 3: Return either subarray exist or not
+   - [x] Step 1: Check if array with zero sum is present in the array.
+   - [x] Step 2: Traverse array and maintain sum
+   - [x] Step 3: Return either subarray exist or not
 
 ### Target:
       Time complex: O(n)
