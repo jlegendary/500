@@ -9,7 +9,7 @@ int main()
 	int n = sizeof(arr)/sizeof(arr[0]);
 
 	checkForZeroSum(arr, n) ?
-	std::cout << "Arry exists" << arr[n] << std::endl : 
+	std::cout << "Array exists" << std::endl : 
 	std::cout << "Array don't exist" << std::endl;
 
 	return 0;
