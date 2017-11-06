@@ -29,7 +29,7 @@ void findPair(int arr[], int n, int sum)
 	{
 		if (arr[low] + arr[high] == sum)
 		{
-			std::cout << "Pair found" << endl;
+			std::cout << "Pair found: " << arr[low] << " and " << arr[high] << endl
 		}
 		(arr[low] + arr[high] < sum)? low++: high--;
 	}
