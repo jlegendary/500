@@ -21,5 +21,5 @@ Ex:
 
 
 Result:
-   The time complexity for 1 - findPair.c and 1 - findPair.java is both O(n^2)
+   The time complexity for 2 - findPair.c and 2 - findPair.java is both O(n log n)
    The space complexity for both is O(1).
