@@ -1,6 +1,9 @@
 # Question 2: Check if subarray with 0, exists
 
-## Given: An unsorted array of integers, find a pair with given sum in it. <br /> Output: Any subarray values with 0 sum 
+## Given: 
+	An unsorted array of integers, find a pair with given sum in it.
+## Output: 
+	Any subarray values with 0 sum 
 
 ### Solving plan:
    - [ ] Step 1
