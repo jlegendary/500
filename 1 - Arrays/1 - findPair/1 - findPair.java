@@ -19,7 +19,10 @@ class FindPair
 				}
 			}
 		}
+		// No pairs
+		System.out.println("Pair not found");
 	}	
+
 }
 
 
