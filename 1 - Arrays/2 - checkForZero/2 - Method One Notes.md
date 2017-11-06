@@ -13,7 +13,7 @@ Output: Any subarray values with 0 sum
 ### Space:
       Space complex: O(1)
 
-###Ex:
+### Ex:
 	Input:
 		arr = [8,7,2,5,3,1]
 		sum = 10
@@ -21,6 +21,6 @@ Output: Any subarray values with 0 sum
 
 
 
-###Result:
+### Result:
    The time complexity for both is 
    The space complexity for both is 
