@@ -20,3 +20,4 @@
 		arr = [8,7,2,5,3,1]
 		sum = 10
 	Output:
+		sub array exist
