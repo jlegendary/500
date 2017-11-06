@@ -10,3 +10,6 @@ Ex:
 		Pair found at index 0 and 2 (8+2)
 		or
 		Pair found at index 1 and 4 (7+3)
+
+The time complexity for 1 - findPair.c and 1 - findPair.java is both O(n^2)
+The space complexity for both is O(1).
