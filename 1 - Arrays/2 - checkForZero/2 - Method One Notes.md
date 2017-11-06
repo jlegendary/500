@@ -11,9 +11,9 @@
    - [ ] Step 3: Return with values
 
 ### Target:
-      Time complex: O(n^2)
+      Time complex: O(n)
 ### Space:
-      Space complex: O(1)
+      Space complex: O(n)
 
 ### Ex:
 	Input:
