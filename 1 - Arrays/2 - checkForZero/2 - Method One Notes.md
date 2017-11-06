@@ -8,7 +8,7 @@
 ### Solving plan:
    - [ ] Step 1: Check if array with zero sum is present in the array.
    - [ ] Step 2: Traverse array and maintain sum
-   - [ ] Step 3: Return with values
+   - [ ] Step 3: Return either subarray exist or not
 
 ### Target:
       Time complex: O(n)
