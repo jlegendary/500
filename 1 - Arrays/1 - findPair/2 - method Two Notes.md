@@ -2,11 +2,11 @@ Question 1: Find Pair with given sum in the array
 
 Given: An unsorted array of integers, find a pair with given sum in it
 
-Solving plan:
-   By analyzing every integer in array to find the correct sum.
+Goal- solving plan:
+   Sort first, then loop until low is less than high, and compare sum
    
    Target:
-      Time complex: O(n^2)
+      Time complex: O(n log n)
    Space:
       Space complex: O(1)
 
