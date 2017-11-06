@@ -1,26 +1,13 @@
-import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 
 class FindPair
 {
 	public static void findPair(int arr[], int sum)
 	{
-		Arrays.sort(arr);
+		Map<Integer, Integer> map = new HashMap<Integer, Integer>();
 
-		int low=0;
-		int high = arr.length-1;
 
-		while (low<high)
-		{
-			if (arr[low] + arr[high] == sum)
-			{
-				System.out.println("Pair found: " + arr[low] + " and " + arr[high]);
-			}
-			if (arr[low] + arr[high] < sum)
-				low++;
-			else
-				high--;
-		}
-		System.out.println("Pair not found");
 	}
 	public static void main (Static[] args)
 	{
