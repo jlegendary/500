@@ -6,9 +6,9 @@
 	Any subarray values with 0 sum 
 
 ### Solving plan:
-   - [ ] Step 1
-   - [ ] Step 2
-   - [ ] Step 3
+   - [ ] Step 1: Check if array with zero sum is present in the array.
+   - [ ] Step 2: Traverse array and maintain sum
+   - [ ] Step 3: Return with values
 
 ### Target:
       Time complex: O(n^2)
