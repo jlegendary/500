@@ -12,7 +12,7 @@
 ### Target:
       Time complex: O(n^3)
 ### Space:
-      Space complex: O(n)
+      Space complex: O(n) 
 
 ### Ex:
 	Input:
